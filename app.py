@@ -1,0 +1,1 @@
+print("mcq_generator")
