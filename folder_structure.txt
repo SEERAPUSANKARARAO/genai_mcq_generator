@@ -1,0 +1,35 @@
+Folder PATH listing for volume New Volume
+Volume serial number is A080-AAF7
+D:.
+�   .env
+�   .ignore
+�   app.py
+�   folder_structure.txt
+�   README.md
+�   requirement.txt
+�   Response.json
+�   setup.py
+�   
+����Data
+�       text.txt
+�       
+����experiment
+�       experiment_1.ipynb
+�       
+����mcqgenrator.egg-info
+�       dependency_links.txt
+�       PKG-INFO
+�       requires.txt
+�       SOURCES.txt
+�       top_level.txt
+�       
+�                   
+����src
+    �   __init__
+    �   
+    ����mcqgenrator
+            logger.py
+            MCQGenrator.py
+            utils.py
+            __init__
+            
